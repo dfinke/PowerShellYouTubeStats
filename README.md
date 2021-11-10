@@ -18,3 +18,5 @@ Track the number of views, likes, and comments on a YouTube video, or playlist a
 1. Run the GitHub Action workflow.
 
 After it runs, it will create a new Excel file, or update it with a new sheet, and check the Excel xlsx back into the repository.
+
+You can click on the Excel file, then click `view raw` to download it to your local machine to view.
